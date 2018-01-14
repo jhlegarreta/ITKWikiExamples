@@ -8,7 +8,7 @@
 
 #include <itksys/SystemTools.hxx>
 #include "vnl/vnl_sample.h"
-#include <math.h>
+#include <cmath>
 
 #include <itkImageToVTKImageFilter.h>
 

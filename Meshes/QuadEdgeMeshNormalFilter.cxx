@@ -4,7 +4,7 @@
 
 #include "itkQuadEdgeMeshExtendedTraits.h"
 #include "itkNormalQuadEdgeMeshFilter.h"
-#include <stdlib.h>
+#include <cstdlib>
 
 int main( int argc, char* argv[] )
 {
